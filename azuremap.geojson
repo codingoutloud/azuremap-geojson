@@ -286,7 +286,7 @@
       "properties":
       {
          "region": "East Asia",
-         "failover_region": "SE Asia",
+         "failover_region": "SE Asia"
       }
    },
    {
@@ -303,7 +303,7 @@
       "properties":
       {
          "region": "SE Asia",
-         "failover_region": "East Asia",
+         "failover_region": "East Asia"
       }
    },
    {
@@ -320,7 +320,7 @@
       "properties":
       {
          "region": "Shanghai China",
-         "failover_region": "Beijing China",
+         "failover_region": "Beijing China"
       }
    },
    {
@@ -337,7 +337,7 @@
       "properties":
       {
          "region": "Beijing China",
-         "failover_region": "Shanghai China",
+         "failover_region": "Shanghai China"
       }
    },
    {
@@ -354,7 +354,7 @@
       "properties":
       {
          "region": "Australia East",
-         "failover_region": "Australia SE",
+         "failover_region": "Australia SE"
       }
    },
    {
@@ -371,7 +371,7 @@
       "properties":
       {
          "region": "Australia SE",
-         "failover_region": "Australia East",
+         "failover_region": "Australia East"
       }
    },
    {
@@ -388,7 +388,7 @@
       "properties":
       {
          "region": "Brazil South",
-         "failover_region": "US South Central",
+         "failover_region": "US South Central"
       }
    },
    {
@@ -405,7 +405,7 @@
       "properties":
       {
          "region": "Europe West",
-         "failover_region": "Europe North",
+         "failover_region": "Europe North"
       }
    },
    {
@@ -422,7 +422,7 @@
       "properties":
       {
          "region": "Europe North",
-         "failover_region": "Europe West",
+         "failover_region": "Europe West"
       }
    },
    {
@@ -439,7 +439,7 @@
       "properties":
       {
          "region": "Japan East",
-         "failover_region": "Japan West",
+         "failover_region": "Japan West"
       }
    },
    {
@@ -456,7 +456,7 @@
       "properties":
       {
          "region": "Japan West",
-         "failover_region": "Japan East",
+         "failover_region": "Japan East"
       }
    },
    {
@@ -473,7 +473,7 @@
       "properties":
       {
          "region": "US North Central",
-         "failover_region": "US South Central",
+         "failover_region": "US South Central"
       }
    },
    {
@@ -490,7 +490,7 @@
       "properties":
       {
          "region": "US South Central",
-         "failover_region": "US North Central",
+         "failover_region": "US North Central"
       }
    },
    {
@@ -507,7 +507,7 @@
       "properties":
       {
          "region": "US East",
-         "failover_region": "US West",
+         "failover_region": "US West"
       }
    },
    {
@@ -524,8 +524,8 @@
       "properties":
       {
          "region": "US West",
-         "failover_region": "US East",
+         "failover_region": "US East"
       }
-   },
+   }
    ]
 }
