@@ -1,0 +1,276 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+   { 
+      "type": "Feature",
+      "id": "East Asia",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 114.186965942, 22.3361568451 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Asia Pacific", 
+         "region": "East Asia", 
+         "location": "Hong Kong",
+         "failover_region": "SE Asia",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "SE Asia",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 103.820533752, 1.32199585438 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Asia Pacific", 
+         "region": "SE Asia", 
+         "location": "Singapore",
+         "failover_region": "East Asia",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Shanghai China",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 121.474700928, 31.2551593781 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Asia Pacific", 
+         "region": "Shanghai China", 
+         "location": "Shanghai China",
+         "failover_region": "Beijing China",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Beijing China",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 116.387649536, 39.9065704346 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Asia Pacific", 
+         "region": "Beijing China", 
+         "location": "Beijing, China",
+         "failover_region": "Shanghai China",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Australia East",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 151.20300293, -33.8740005493 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Australia", 
+         "region": "Australia East", 
+         "location": "Sydney, New South Wales, Australia",
+         "failover_region": "Australia SE",
+         "scope": "All Windows Azure Services",
+         "status": "Announced"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Australia SE",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 144.955001831, -37.8132019043 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Australia", 
+         "region": "Australia SE", 
+         "location": "Melbourne, Victoria, Australia",
+         "failover_region": "Australia East",
+         "scope": "All Windows Azure Services",
+         "status": "Announced"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Brazil South",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ -52.9731178284, -10.8104515076 ] 
+      },
+      "properties": 
+      { 
+         "geo": "South America", 
+         "region": "Brazil South", 
+         "location": "Brazil",
+         "failover_region": "US South Central",
+         "scope": "All Windows Azure Services",
+         "status": "Public Preview"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Europe West",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 4.86433982849, 52.3306999207 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Europe", 
+         "region": "Europe West", 
+         "location": "Amsterdam, Netherlands",
+         "failover_region": "Europe North",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Europe North",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ -6.24827003479, 53.3480682373 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Europe", 
+         "region": "Europe North", 
+         "location": "Dublin, Ireland",
+         "failover_region": "Europe West",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Japan East",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 139.808944702, 35.6832084656 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Japan", 
+         "region": "Japan East", 
+         "location": "Tokyo, Japan",
+         "failover_region": "Japan West",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "Japan West",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ 135.508148193, 34.7703742981 ] 
+      },
+      "properties": 
+      { 
+         "geo": "Japan", 
+         "region": "Japan West", 
+         "location": "Kansai, Japan",
+         "failover_region": "Japan East",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "US North Central",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ -87.6324462891, 41.8842506409 ] 
+      },
+      "properties": 
+      { 
+         "geo": "United States", 
+         "region": "US North Central", 
+         "location": "Chicago, IL, USA",
+         "failover_region": "US South Central",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "US South Central",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ -98.4946136475, 29.4245796204 ] 
+      },
+      "properties": 
+      { 
+         "geo": "United States", 
+         "region": "US South Central", 
+         "location": "San Antonio, TX, USA",
+         "failover_region": "US North Central",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "US East",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ -77.5457611084, 38.7326011658 ] 
+      },
+      "properties": 
+      { 
+         "geo": "United States", 
+         "region": "US East", 
+         "location": "Bristow, Virginia, USA",
+         "failover_region": "US West",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   },
+   { 
+      "type": "Feature",
+      "id": "US West",
+      "geometry": 
+      { 
+         "type": "Point", 
+         "coordinates": [ -122.419639587, 37.7771186829 ] 
+      },
+      "properties": 
+      { 
+         "geo": "United States", 
+         "region": "US West", 
+         "location": "San Francisco, California, USA",
+         "failover_region": "US East",
+         "scope": "All Windows Azure Services",
+         "status": "Production"
+      }
+   }
+   ]
+}
+
